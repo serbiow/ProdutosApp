@@ -41,9 +41,10 @@ npx expo start
 ```
 
 
-## Captura de Tela
+## Capturas de Tela
 
-(Inserir depois)
+![alt text](./assets/print1.png)
+![alt text](./assets/print2.png)
 
 ---
 
