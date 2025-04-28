@@ -19,7 +19,7 @@ Aplicativo criado com Expo (React Native) para exibir produtos em um formato de 
 1. Clone o repositório:
 
 ```bash
-git clone [link-do-seu-repositorio]
+git clone https://github.com/serbiow/ProdutosApp
 ```
 
 2. Acesse a pasta do projeto:
